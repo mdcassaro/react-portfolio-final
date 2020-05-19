@@ -16,8 +16,8 @@ function App(){
         <Wrapper>
           <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
-          <Route exact path="/discover" component={Contact} />
-          <Route exact path="/search" component={Portfolio} />
+          <Route exact path="/Contact" component={Contact} />
+          <Route exact path="/Portfolio" component={Portfolio} />
         </Wrapper>
       </div>
     </BrowserRouter>
