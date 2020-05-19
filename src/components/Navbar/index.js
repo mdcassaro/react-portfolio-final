@@ -18,10 +18,12 @@ function Navbar() {
           <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
         </li>
         <li className="nav-item">
-          <a link href="contact.html" alt="contact" className="nav-link" href="#">Contact</a>
+            <Link className="nav-link" to="/contact">Contact <span className="sr-only">Contact</span></Link>
+          
         </li>
         <li className="nav-item">
-          <a link href="portfolio.html" alt="portfolio" className="nav-link" href="#">Portfolio</a>
+            <Link className="nav-link" to="/portfolio">Portfolio <span className="sr-only">Portfolio</span></Link>
+          
         </li>
         
         
