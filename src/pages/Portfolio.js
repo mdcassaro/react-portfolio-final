@@ -1,5 +1,10 @@
 import React from "react";
 import "../styles/Portfolio.css";
+import Travelapp from './travel app.png'
+import Dayplanner from './day planner.png'
+import Horiseon from './Untitled.png'
+import Project2 from './project2.png'
+import EmployeeHw from './employeehw.png'
 
 
 function Portfolio(props){
@@ -8,7 +13,7 @@ function Portfolio(props){
         <div class="row">
         <div class="col-lg-3">
           <a href="https://secure-shelf-77308.herokuapp.com/">
-            <img src="project2.png" alt="Project 2" class="img img-thumbnail"/>
+            <img src={Project2} alt="Project 2" class="img img-thumbnail"/>
           </a>
           
         </div>
@@ -25,7 +30,7 @@ function Portfolio(props){
       <div class="row">
         <div class="col-lg-3">
           <a href=" https://mdcassaro.github.io/codinghw1/">
-            <img src="Untitled.png" alt="horiseon website" class="img img-thumbnail"/>
+            <img src={Horiseon} alt="horiseon website" class="img img-thumbnail"/>
           </a>
           
         </div>
@@ -44,7 +49,7 @@ function Portfolio(props){
       <div class="row" >
         <div class="col-lg-3">
           <a href="https://mdcassaro.github.io/homework-5/">
-            <img src="day planner.png" alt=" day planner" class="img img-thumbnail"/>
+            <img src={Dayplanner} alt=" day planner" class="img img-thumbnail"/>
           </a>
         </div>
              
@@ -59,7 +64,7 @@ function Portfolio(props){
       <div class="row" >
         <div class="col-lg-3">
           <a href="https://mdcassaro.github.io/newhw8/">
-            <img src="employeehw.png" alt="Employee Generator" class="img img-thumbnail"/>
+            <img src={EmployeeHw} alt="Employee Generator" class="img img-thumbnail"/>
           </a>
           
         </div>
@@ -76,7 +81,7 @@ function Portfolio(props){
       <div class="row" >
         <div class="col-lg-3">
           <a href="https://ionathas78.github.io/LiveTravelInfo/">
-            <img src="travel app.png" alt="Travel App" class="img img-thumbnail"/>
+            <img src={Travelapp} alt="Travel App" class="img img-thumbnail"/>
           </a>
         </div>
         <div class="col-lg-9">
