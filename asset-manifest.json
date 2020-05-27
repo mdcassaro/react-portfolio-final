@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio-final/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-portfolio-final/static/js/main.b7530f2e.chunk.js",
-    "main.js.map": "/react-portfolio-final/static/js/main.b7530f2e.chunk.js.map",
+    "main.css": "/react-portfolio-final/static/css/main.d9d1dd48.chunk.css",
+    "main.js": "/react-portfolio-final/static/js/main.8be4cb63.chunk.js",
+    "main.js.map": "/react-portfolio-final/static/js/main.8be4cb63.chunk.js.map",
     "runtime-main.js": "/react-portfolio-final/static/js/runtime-main.858add92.js",
     "runtime-main.js.map": "/react-portfolio-final/static/js/runtime-main.858add92.js.map",
-    "static/js/2.d5454790.chunk.js": "/react-portfolio-final/static/js/2.d5454790.chunk.js",
-    "static/js/2.d5454790.chunk.js.map": "/react-portfolio-final/static/js/2.d5454790.chunk.js.map",
+    "static/js/2.0a04e3da.chunk.js": "/react-portfolio-final/static/js/2.0a04e3da.chunk.js",
+    "static/js/2.0a04e3da.chunk.js.map": "/react-portfolio-final/static/js/2.0a04e3da.chunk.js.map",
     "index.html": "/react-portfolio-final/index.html",
-    "precache-manifest.44ac303434ebd6605d14cf61deb9826b.js": "/react-portfolio-final/precache-manifest.44ac303434ebd6605d14cf61deb9826b.js",
+    "precache-manifest.19f537ddb9be84e3bbd9b3bc19210491.js": "/react-portfolio-final/precache-manifest.19f537ddb9be84e3bbd9b3bc19210491.js",
     "service-worker.js": "/react-portfolio-final/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-portfolio-final/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d5454790.chunk.js.LICENSE.txt": "/react-portfolio-final/static/js/2.d5454790.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-portfolio-final/static/media/logo.5d5d9eef.svg"
+    "static/css/main.d9d1dd48.chunk.css.map": "/react-portfolio-final/static/css/main.d9d1dd48.chunk.css.map",
+    "static/js/2.0a04e3da.chunk.js.LICENSE.txt": "/react-portfolio-final/static/js/2.0a04e3da.chunk.js.LICENSE.txt",
+    "static/media/day planner.png": "/react-portfolio-final/static/media/day planner.a3334e9b.png",
+    "static/media/employeehw.png": "/react-portfolio-final/static/media/employeehw.d7466003.png",
+    "static/media/project2.png": "/react-portfolio-final/static/media/project2.a87ba789.png",
+    "static/media/travel app.png": "/react-portfolio-final/static/media/travel app.8d9be866.png",
+    "static/media/untitled.png": "/react-portfolio-final/static/media/untitled.8c02ff25.png"
   },
   "entrypoints": [
     "static/js/runtime-main.858add92.js",
-    "static/js/2.d5454790.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b7530f2e.chunk.js"
+    "static/js/2.0a04e3da.chunk.js",
+    "static/css/main.d9d1dd48.chunk.css",
+    "static/js/main.8be4cb63.chunk.js"
   ]
 }
