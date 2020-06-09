@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/portfolio.css";
+
 import Travelapp from './travel app.png'
 import Dayplanner from './day planner.png'
 import Horiseon from './untitled.png'

@@ -1,15 +1,22 @@
 body {
-    background-color: #DCDCDC
+    background-color: #E0E0E0;
 }
 
 .row {
-    margin-top: 10%;
+    
+    align-content: center;
 }
+.card{
+    align-content: center;
+    margin-top: 2%;
+    height: 40%;
+}
+
 
 p, h1{
     font-family: 'Roboto', sans-serif;;
     font-weight: bold;
-    padding: 30px;
+    
 }
 
 @media screen and (max-width: 168px) {
