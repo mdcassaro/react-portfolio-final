@@ -2,14 +2,11 @@ body {
     background-color: #DCDCDC
 }
 
-.row {
-    margin-top: 10%;
-}
 
 p, h1{
     font-family: 'Roboto', sans-serif;;
     font-weight: bold;
-    padding: 30px;
+    padding: 10px;
 }
 
 @media screen and (max-width: 168px) {
