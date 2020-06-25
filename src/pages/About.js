@@ -22,7 +22,7 @@ function About(props){
                         </div>
                         <div className="col-md-9">
                         <p>
-                            I am from Louisville, Ky. I majored in Biology from the University of Louisville. I obtained my MBA from Bellarmine University in Louisville, Ky. Prior to this program I have never coded or taken any action to code. This course was the first time I garnered an understanding of the behind the seen processes that go into making a website.
+                            I am from Louisville, Ky. I majored in Biology from the University of Louisville. I obtained my MBA from Bellarmine University in Louisville, Ky. I received a full stack web development certification from the University of Texas in Austin. This program included HTML, CSS, Javascript, jQuery, SQL, MongoDB, Express, and React. Over the course of this learning experience I was responsible for the creation of numerous applications using these languages.
                         </p>
                         <div className="row">
                         <div class="col align-self-center">
